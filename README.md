@@ -17,9 +17,3 @@ Here are some ideas to get you started:
 
 
  <img align="center" alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=thembones79&count_private=true&show_icons=true" />
-
- <img align="center" alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thembones79" />
- 
- 
- <img align="center" alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=thembones79" />
- 
